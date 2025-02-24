@@ -1,5 +1,4 @@
 'use client'
-import { error } from 'console'
 import { Button } from '@/components/Button'
 import { InputField, InputIcon, InputRoot } from '@/components/Input'
 import { zodResolver } from '@hookform/resolvers/zod'
